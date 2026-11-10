@@ -87,7 +87,11 @@
 
 <h3 align="center">📈 Contribution Activity</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheat-7621&bg_color=0a1f14&color=4ade80&line=22c55e&point=d1fae5&area=true&area_color=22c55e&hide_border=true" width="100%" alt="Activity graph" />
+<div align="center">
+
+<img src="https://ghchart.rshah.org/22c55e/Cheat-7621" width="90%" alt="Contribution chart" />
+
+</div>
 
 <div align="center">
 
