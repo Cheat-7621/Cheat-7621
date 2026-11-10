@@ -244,10 +244,6 @@
 
 </div>
 
-<img src="https://streak-stats.demolab.com?user=Cheat-7621&background=0A1F14&ring=22C55E&fire=E0A030&currStreakNum=D1FAE5&sideNums=D1FAE5&currStreakLabel=E0A030&sideLabels=86EFAC&dates=6EE7B7&border=14532D" alt="Streak stats" />
-
-</div>
-
 <br/>
 
 <h3 align="center">📫 Let's Connect</h3>
