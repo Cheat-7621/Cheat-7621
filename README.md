@@ -295,7 +295,7 @@
 
 <br/><br/>
 
-<sub>Thanks for visiting 🌱 — open to collaborations on KMP, web and design projects.</sub>
+<sub>Thanks for visiting.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,100:041a0f&height=100&section=footer" width="100%" alt="Footer" />
 
