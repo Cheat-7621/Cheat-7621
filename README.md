@@ -70,7 +70,7 @@
 </td>
 </tr>
 <tr>
-<td width="16%" valign="top" align="center"><b>2024 – Present</b></td>
+<td width="16%" valign="top" align="center"><b>2024 – 2025</b></td>
 <td width="84%" valign="top">
 
 <b>Developer — Mobile &amp; Front-End</b> · KiloIT Co., Ltd, Phnom Penh <sub>Feb 2024 – 2025</sub>
