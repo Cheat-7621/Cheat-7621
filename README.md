@@ -1,14 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:041a0f,50:0a3d22,100:14532d&height=240&section=header&text=YUONG%20SOCHEAT&fontSize=58&fontColor=e8f5ec&fontAlignY=40&desc=Mobile%20Developer%20%C2%B7%20Music%20Producer&descAlignY=62&descSize=20&descColor=86efac" width="100%" alt="Yuong Socheat banner" />
+<a href="https://yuongsocheat.site">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:041a0f,50:0a3d22,100:14532d&height=250&section=header&text=YUONG%20SOCHEAT&fontSize=58&fontColor=e8f5ec&fontAlignY=38&desc=%3C%20MOBILE%20DEVELOPER%20%2F%3E&descAlignY=62&descSize=22&descColor=e0a030" width="100%" alt="Yuong Socheat banner" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=4ADE80&center=true&vCenter=true&width=600&height=36&lines=Building+Android+%26+KMM+apps;Kotlin+%C2%B7+Swift+%C2%B7+React+%C2%B7+Next.js;Producing+beats+as+Cheatzremix" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=E0A030&center=true&vCenter=true&width=620&height=36&lines=%3C+WEB+DEVELOPER+%2F%3E;%3C+MOBILE+DEVELOPER+%2F%3E;%3C+UI%2FUX+DESIGNER+%2F%3E;%3C+MUSIC+PRODUCER+%2F%3E" alt="Roles" />
 
 <br/>
 
-<a href="https://yuongsocheat.site"><img src="https://img.shields.io/badge/PORTFOLIO-14532d?style=for-the-badge&logo=googlechrome&logoColor=86efac" alt="Portfolio" /></a>
+<a href="https://yuongsocheat.site"><img src="https://img.shields.io/badge/VIEW%20ON%20WEBSITE%20%E2%86%92-c9852b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View on website" /></a>
+<a href="https://yuongsocheat.site/Services"><img src="https://img.shields.io/badge/ALL%20SKILLS-14532d?style=for-the-badge&logo=target&logoColor=e0a030" alt="All skills" /></a>
 <a href="https://t.me/ysccheatz"><img src="https://img.shields.io/badge/TELEGRAM-166534?style=for-the-badge&logo=telegram&logoColor=86efac" alt="Telegram" /></a>
 <a href="https://github.com/Cheat-7621"><img src="https://img.shields.io/badge/GITHUB-0a1f14?style=for-the-badge&logo=github&logoColor=86efac" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/2%2B-YEARS%20EXPERIENCE-1f5a37?style=flat-square&labelColor=0b2216" alt="Experience" />
+<img src="https://img.shields.io/badge/ITE-RUPP-1f5a37?style=flat-square&labelColor=0b2216" alt="ITE, RUPP" />
+<img src="https://img.shields.io/badge/PHNOM%20PENH-CAMBODIA-1f5a37?style=flat-square&labelColor=0b2216" alt="Location" />
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-c9852b?style=flat-square&labelColor=0b2216" alt="Open to collaboration" />
 
 </div>
 
@@ -20,12 +30,13 @@
 
 <h3>About Me 🌿</h3>
 
+<p>Information Technology Engineering (ITE) at the <b>Royal University of Phnom Penh</b>, and a dedicated <b>Mobile Developer</b> and <b>Front-End Web Developer</b> focused on high-quality mobile and web applications.</p>
+
 <ul>
-  <li>📱 Mobile Developer at <b>KiloIT</b></li>
-  <li>🧩 Android (Kotlin), KMM and iOS (Swift) apps</li>
-  <li>🌐 Web with React / Next.js, plus backend integration</li>
-  <li>🎧 Music producer, <b>Cheatzremix</b></li>
-  <li>🇰🇭 Based in Cambodia</li>
+  <li>📱 Mobile Developer at <b>KiloIT</b>: Kotlin, Swift, Kotlin Multiplatform</li>
+  <li>🌐 Web: React, Next.js, Node.js, Django</li>
+  <li>🎨 UI/UX design and QA/QC</li>
+  <li>🎧 Music producer <b>Cheatzremix</b>: FL Studio, mixing, mastering, sound design</li>
 </ul>
 
 <h3>Currently Building 🚀</h3>
@@ -36,19 +47,25 @@
   <li>📲 KMM apps for Android and iOS</li>
 </ul>
 
-<h3>Get in Touch 📫</h3>
+<h3>Philosophy 💡</h3>
 
-<p>Open to collaboration. Message me on Telegram <a href="https://t.me/ysccheatz"><b>@ysccheatz</b></a> or visit <a href="https://yuongsocheat.site"><b>yuongsocheat.site</b></a>.</p>
+<blockquote>Clean, organized code for long-term quality and an exceptional user experience. Every project is a chance to build solutions that give real value to users.</blockquote>
 
 </td>
 <td width="32%" align="center" valign="middle">
 
-<img src="https://wsrv.nl/?url=github.com/Cheat-7621.png&w=240&h=240&fit=cover&mask=circle" width="210" alt="Yuong Socheat" />
+<a href="https://yuongsocheat.site">
+<img src="https://wsrv.nl/?url=yuongsocheat.site/profile.png&w=240&h=240&fit=cover&mask=circle" width="210" alt="Yuong Socheat" />
+</a>
 
 <br/><br/>
 
 <b>Yuong Socheat</b><br/>
 <sub>@Cheat-7621</sub>
+
+<br/><br/>
+
+<a href="https://yuongsocheat.site"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-14532d?style=for-the-badge&logo=googlechrome&logoColor=e0a030" alt="Open portfolio" /></a>
 
 <br/><br/>
 
@@ -60,13 +77,39 @@
 
 <br/>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">🛠️ Skills</h3>
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,swift,dart,react,nextjs,ts,js,py,tailwind,nodejs,androidstudio,xcode,git,gitlab,figma&perline=15&theme=dark" alt="Tech stack" />
+<b>📱 Mobile</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=kotlin,swift,androidstudio,xcode,dart&perline=5&theme=dark" alt="Mobile icons" />
+<br/><br/>
+<sub>Kotlin · Swift · Android · iOS<br/>Kotlin Multiplatform · Jetpack Compose<br/>Compose Multiplatform · SwiftUI<br/>MVVM / MVI · Clean Architecture<br/>Koin · Coroutines &amp; Flow · Ktor</sub>
 
-</div>
+</td>
+<td width="34%" valign="top" align="center">
+
+<b>🌐 Web &amp; Backend</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,py,django,firebase,supabase,mysql&perline=7&theme=dark" alt="Web icons" />
+<br/><br/>
+<sub>HTML &amp; CSS · JavaScript · TypeScript<br/>React · Next.js · Tailwind CSS<br/>Node.js · Python · Django<br/>REST APIs · Firebase · Supabase · MySQL</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<b>🎨 Design, Music &amp; Tools</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma,git,github,gitlab,docker,cloudflare,vercel,vscode,postman,pycharm&perline=5&theme=dark" alt="Tools icons" />
+<br/><br/>
+<sub>UI/UX · Figma · FL Studio<br/>Mixing, Mastering &amp; Sound Design<br/>Git · GitHub · GitLab CI/CD<br/>Vercel · Docker · Cloudflare<br/>Jira · Confluence · Trello · ClickUp</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -79,7 +122,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Cheat-7621&background=0A1F14&ring=22C55E&fire=4ADE80&currStreakNum=D1FAE5&sideNums=D1FAE5&currStreakLabel=4ADE80&sideLabels=86EFAC&dates=6EE7B7&border=14532D" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com?user=Cheat-7621&background=0A1F14&ring=22C55E&fire=E0A030&currStreakNum=D1FAE5&sideNums=D1FAE5&currStreakLabel=E0A030&sideLabels=86EFAC&dates=6EE7B7&border=14532D" alt="Streak stats" />
 
 </div>
 
@@ -93,7 +136,16 @@
 
 </div>
 
+<br/>
+
+<h3 align="center">📫 Let's Connect</h3>
+
 <div align="center">
+
+<a href="https://yuongsocheat.site"><img src="https://img.shields.io/badge/yuongsocheat.site-c9852b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://t.me/ysccheatz"><img src="https://img.shields.io/badge/@ysccheatz-166534?style=for-the-badge&logo=telegram&logoColor=86efac" alt="Telegram" /></a>
+
+<br/><br/>
 
 <sub>Thanks for visiting 🌱</sub>
 
