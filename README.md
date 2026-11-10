@@ -25,8 +25,6 @@
   <li>🎨 <b>Design:</b> UI/UX in Figma</li>
   <li>🎧 <b>Music:</b> Producer behind <b>CHEATz Remix</b> (FL Studio)</li>
   <li>🎮 <b>Fun:</b> Small games in Python / Pygame</li>
-  <li>🌱 <b>Currently:</b> shipping KMP apps and Khmer-first products</li>
-  <li>💬 <b>Ask me about:</b> KMP, Compose, Koin, MVVM / MVI, Next.js</li>
 </ul>
 
 </td>
@@ -124,7 +122,7 @@
 <tr>
 <td width="33%" valign="top">
 
-<b>🌉 TechBridge · <i>ស្ពានបច្ចេកវិទ្យា</i></b> <sub>2026</sub><br/>
+<b>TechBridge · <i>ស្ពានបច្ចេកវិទ្យា</i></b> <sub>2026</sub><br/>
 <sub>Khmer-language computer education app for Android &amp; iOS.</sub><br/><br/>
 <img src="https://img.shields.io/badge/KMP-14532d?style=flat-square&logo=kotlin&logoColor=e0a030" alt="KMP" />
 <img src="https://img.shields.io/badge/Swift-166534?style=flat-square&logo=swift&logoColor=86efac" alt="Swift" />
@@ -143,7 +141,7 @@
 </td>
 <td width="33%" valign="top">
 
-<b>🪄 <a href="https://cheatzmagic.vercel.app/">CHEATZ MAGIC</a></b> <sub>2026</sub><br/>
+<b><a href="https://cheatzmagic.vercel.app/">CHEATZ MAGIC</a></b> <sub>2026</sub><br/>
 <sub>AI music separation web app.</sub><br/><br/>
 <img src="https://img.shields.io/badge/Next.js-0a1f14?style=flat-square&logo=nextdotjs&logoColor=86efac" alt="Next.js" />
 <img src="https://img.shields.io/badge/Node.js-14532d?style=flat-square&logo=nodedotjs&logoColor=e0a030" alt="Node.js" />
@@ -166,7 +164,7 @@
 </td>
 <td width="33%" valign="top">
 
-<b>🛒 CHEATZ E-Commerce App</b> <sub>2025</sub><br/>
+<b>>🛍️ CHEATZ E-Commerce App</b> <sub>2025</sub><br/>
 <sub>Cross-platform e-commerce app for Android &amp; iOS.</sub><br/><br/>
 <img src="https://img.shields.io/badge/KMP-14532d?style=flat-square&logo=kotlin&logoColor=e0a030" alt="KMP" />
 <img src="https://img.shields.io/badge/Swift-166534?style=flat-square&logo=swift&logoColor=86efac" alt="Swift" />
@@ -194,7 +192,7 @@
 </td>
 <td width="33%" valign="top">
 
-<b>🏥 KiloHEALTH</b> <sub>2024 · team project</sub><br/>
+<b> KiloHEALTH</b> <sub>2024 · team project</sub><br/>
 <sub>Health website built collaboratively with a team.</sub><br/><br/>
 <img src="https://img.shields.io/badge/React-14532d?style=flat-square&logo=react&logoColor=e0a030" alt="React" />
 <img src="https://img.shields.io/badge/JavaScript-166534?style=flat-square&logo=javascript&logoColor=86efac" alt="JavaScript" />
@@ -203,7 +201,7 @@
 </td>
 <td width="33%" valign="top">
 
-<b>❄️ AirCon</b> <sub>2024</sub><br/>
+<b> AirCon</b> <sub>2024</sub><br/>
 <sub>Air-conditioning service website.</sub><br/><br/>
 <img src="https://img.shields.io/badge/HTML5-14532d?style=flat-square&logo=html5&logoColor=e0a030" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS3-166534?style=flat-square&logo=css3&logoColor=86efac" alt="CSS" />
