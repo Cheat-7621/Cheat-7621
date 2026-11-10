@@ -244,28 +244,7 @@
 
 </div>
 
-<br/>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cheat-7621&show_icons=true&hide_border=true&bg_color=0A1F14&title_color=E0A030&icon_color=22C55E&text_color=D1FAE5&count_private=true" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheat-7621&layout=compact&hide_border=true&bg_color=0A1F14&title_color=E0A030&text_color=D1FAE5" width="49%" alt="Top languages" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=Cheat-7621&background=0A1F14&ring=22C55E&fire=E0A030&currStreakNum=D1FAE5&sideNums=D1FAE5&currStreakLabel=E0A030&sideLabels=86EFAC&dates=6EE7B7&border=14532D" alt="Streak stats" />
-
-</div>
-
-<br/>
-
-<h3 align="center">📈 Contribution Activity</h3>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheat-7621&bg_color=0A1F14&color=86EFAC&line=22C55E&point=E0A030&area=true&area_color=22C55E&hide_border=true" width="95%" alt="Contribution graph" />
 
 </div>
 
