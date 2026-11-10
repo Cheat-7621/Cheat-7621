@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:041a0f,100:14532d&height=180&section=header&text=Yuong%20Socheat&fontSize=48&fontColor=e0a030&fontAlignY=38&desc=Mobile%20%C2%B7%20Web%20%C2%B7%20UI%2FUX%20%C2%B7%20Music&descSize=16&descColor=86efac&descAlignY=60" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=E0A030&center=true&vCenter=true&width=700&height=36&lines=Kotlin+Multiplatform+%26+Jetpack+Compose;React+%2F+Next.js+%2B+Tailwind;UI%2FUX+Design+in+Figma;CHEATz+Remix+%E2%80%94+FL+Studio" alt="Roles" />
-
-<br/><br/>
-
 <a href="https://yuongsocheat.site"><img src="https://img.shields.io/badge/WEBSITE-c9852b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://yuongsocheat.site/Services"><img src="https://img.shields.io/badge/ALL%20SKILLS-14532d?style=for-the-badge&logo=target&logoColor=e0a030" alt="All skills" /></a>
 <a href="https://yuongsocheat.site/Projects"><img src="https://img.shields.io/badge/PROJECTS-166534?style=for-the-badge&logo=rocket&logoColor=86efac" alt="Projects" /></a>
