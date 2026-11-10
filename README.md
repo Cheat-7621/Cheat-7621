@@ -30,21 +30,13 @@
 
 <h3>About Me 🌿</h3>
 
-<p>Hi, I am Yuong Socheat, a recent Information technology Engineering (ITE)→ graduate from the Royal University of Phnom Penh (RUPP)→. Alongside my academic background, I am a dedicated Mobile Developer and Front-End Web Developer, focused on building high-quality mobile and web applications.</p>
+<p>Hi, I am Yuong Socheat, a recent Information technology Engineering (ITE) graduate from the Royal University of Phnom Penh (RUPP). Alongside my academic background, I am a dedicated Mobile Developer and Front-End Web Developer, focused on building high-quality mobile and web applications.</p>
 
 <ul>
-  <li>📱 Mobile Developer at <b>KiloIT</b>: Kotlin, Swift, Kotlin Multiplatform</li>
+  <li>📱 Mobile Developer at <b>KiloIT</b>: Kotlin, Kotlin Multiplatform, Swift</li>
   <li>🌐 Web: React, Next.js, Node.js, Django</li>
-  <li>🎨 UI/UX design and QA/QC</li>
-  <li>🎧 Music producer <b>Cheatzremix</b>: FL Studio, mixing, mastering, sound design</li>
-</ul>
-
-<h3>Currently Building 🚀</h3>
-
-<ul>
-  <li>🎵 A beat marketplace (Next.js)</li>
-  <li>💌 An online invitation site (Next.js)</li>
-  <li>📲 KMM apps for Android and iOS</li>
+  <li>🎨 UI/UX design </li>
+  <li>🎧 Music producer <b>CHEATz Remix</b>: FL Studio</li>
 </ul>
 
 <h3>Philosophy 💡</h3>
