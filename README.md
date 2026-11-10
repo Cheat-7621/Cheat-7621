@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:041a0f,50:0a3d22,100:14532d&height=220&section=header&text=Yuong%20Socheat&fontSize=52&fontColor=d1fae5&animation=fadeIn&fontAlignY=40&desc=Mobile%20Developer%20%E2%80%A2%20Music%20Producer&descAlignY=62&descSize=18&descColor=4ade80" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4ADE80&center=true&vCenter=true&width=520&height=40&lines=Building+KMM+%26+Android+apps;Kotlin+%7C+Swift+%7C+React+%7C+Next.js;Producing+beats+as+Cheatzremix" alt="Typing animation" />
+<img src="./assets/cover.svg" alt="Yuong Socheat cover" width="100%" />
 
 <br/>
 
