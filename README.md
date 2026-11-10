@@ -73,7 +73,7 @@
 <td width="16%" valign="top" align="center"><b>2024 – Present</b></td>
 <td width="84%" valign="top">
 
-<b>Developer — Mobile &amp; Front-End</b> · KiloIT Co., Ltd, Phnom Penh <sub>Feb 2024 – Present</sub>
+<b>Developer — Mobile &amp; Front-End</b> · KiloIT Co., Ltd, Phnom Penh <sub>Feb 2024 – 2025</sub>
 <ul>
   <li>Started as an intern and was kept on to build mobile features for <b>iOS (Swift)</b> and <b>Android (Kotlin with Jetpack Compose)</b>.</li>
   <li>Built front-end interfaces in <b>React.js</b> and handled UI/UX in <b>Figma</b>, owning features from wireframe to working code.</li>
