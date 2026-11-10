@@ -20,10 +20,9 @@
 
 <ul>
   <li>📱 Mobile Developer at <b>KiloIT</b></li>
-  <li>🧩 Android (Kotlin), KMM and iOS apps</li>
+  <li>🧩 Android (Kotlin), KMM and iOS (Swift) apps</li>
   <li>🌐 Web with React / Next.js, plus backend integration</li>
   <li>🎧 Music producer, <b>Cheatzremix</b></li>
-  <li>🚀 Building: beat marketplace, invitation site, KMM apps</li>
   <li>🇰🇭 Based in Cambodia</li>
   <li>📫 Reach me: <a href="https://t.me/ysccheatz">@ysccheatz</a></li>
 </ul>
