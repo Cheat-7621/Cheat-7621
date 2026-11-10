@@ -1,24 +1,17 @@
 <div align="center">
 
-<a href="https://yuongsocheat.site">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:041a0f,50:0a3d22,100:14532d&height=250&section=header&text=YUONG%20SOCHEAT&fontSize=58&fontColor=e8f5ec&fontAlignY=38&desc=%3C%20MOBILE%20DEVELOPER%20%2F%3E&descAlignY=62&descSize=22&descColor=e0a030" width="100%" alt="Yuong Socheat banner" />
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=E0A030&center=true&vCenter=true&width=620&height=36&lines=%3C+WEB+DEVELOPER+%2F%3E;%3C+MOBILE+DEVELOPER+%2F%3E;%3C+UI%2FUX+DESIGNER+%2F%3E;%3C+MUSIC+PRODUCER+%2F%3E" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=E0A030&center=true&vCenter=true&width=700&height=36&lines=%3C+MOBILE+DEVELOPER+%2F%3E;%3C+WEB+DEVELOPER+%2F%3E;%3C+UI%2FUX+DESIGNER+%2F%3E;%3C+MUSIC+PRODUCER+%2F%3E" alt="Roles" />
 
 <br/>
 
-<a href="https://yuongsocheat.site"><img src="https://img.shields.io/badge/VIEW%20ON%20WEBSITE%20%E2%86%92-c9852b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View on website" /></a>
+<a href="https://yuongsocheat.site"><img src="https://img.shields.io/badge/WEBSITE-c9852b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://yuongsocheat.site/Services"><img src="https://img.shields.io/badge/ALL%20SKILLS-14532d?style=for-the-badge&logo=target&logoColor=e0a030" alt="All skills" /></a>
 <a href="https://t.me/ysccheatz"><img src="https://img.shields.io/badge/TELEGRAM-166534?style=for-the-badge&logo=telegram&logoColor=86efac" alt="Telegram" /></a>
 <a href="https://github.com/Cheat-7621"><img src="https://img.shields.io/badge/GITHUB-0a1f14?style=for-the-badge&logo=github&logoColor=86efac" alt="GitHub" /></a>
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=kotlin,swift,androidstudio,xcode,react,nextjs,tailwind,figma,firebase,git&perline=10&theme=dark" alt="Tech stack" />
 
-<img src="https://img.shields.io/badge/2%2B-YEARS%20EXPERIENCE-1f5a37?style=flat-square&labelColor=0b2216" alt="Experience" />
-<img src="https://img.shields.io/badge/ITE-RUPP-1f5a37?style=flat-square&labelColor=0b2216" alt="ITE, RUPP" />
-<img src="https://img.shields.io/badge/PHNOM%20PENH-CAMBODIA-1f5a37?style=flat-square&labelColor=0b2216" alt="Location" />
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-c9852b?style=flat-square&labelColor=0b2216" alt="Open to collaboration" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,100:041a0f&height=90&section=footer" width="100%" alt="Cover footer" />
 
 </div>
 
