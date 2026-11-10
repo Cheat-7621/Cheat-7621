@@ -19,7 +19,7 @@
 <tr>
 <td width="68%" valign="top">
 
-<h3>About Me 🌿</h3>
+<h3>About Me 💻</h3>
 
 <p>Hi, I'm <b>Yuong Socheat</b> — an Information Technology Engineering (ITE) graduate from the <b>Royal University of Phnom Penh (RUPP)</b>, based in Cambodia 🇰🇭. I build polished mobile and web apps, with a strong focus on <b>Kotlin Multiplatform</b> and clean, scalable architecture.</p>
 
@@ -170,7 +170,7 @@
 
 <br/><br/>
 
-<sub>Thanks for visiting 🌱 — open to collaborations on KMP, web and design projects.</sub>
+<sub>Thanks for visiting 🌱</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,100:041a0f&height=100&section=footer" width="100%" alt="Footer" />
 
