@@ -30,7 +30,7 @@
 
 <h3>About Me 🌿</h3>
 
-<p>Information Technology Engineering (ITE) at the <b>Royal University of Phnom Penh</b>, and a dedicated <b>Mobile Developer</b> and <b>Front-End Web Developer</b> focused on high-quality mobile and web applications.</p>
+<p>Hi, I am Yuong Socheat, a recent Information technology Engineering (ITE)→ graduate from the Royal University of Phnom Penh (RUPP)→. Alongside my academic background, I am a dedicated Mobile Developer and Front-End Web Developer, focused on building high-quality mobile and web applications.</p>
 
 <ul>
   <li>📱 Mobile Developer at <b>KiloIT</b>: Kotlin, Swift, Kotlin Multiplatform</li>
