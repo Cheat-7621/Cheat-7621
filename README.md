@@ -74,21 +74,12 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cheat-7621&show_icons=true&include_all_commits=true&count_private=true&bg_color=0a1f14&title_color=4ade80&text_color=d1fae5&icon_color=22c55e&border_color=14532d&ring_color=22c55e" alt="GitHub stats" />
-</td>
-<td align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheat-7621&layout=compact&bg_color=0a1f14&title_color=4ade80&text_color=d1fae5&border_color=14532d" alt="Top languages" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cheat-7621&theme=github_dark" width="49%" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cheat-7621&theme=github_dark" width="49%" alt="Top languages" />
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com?user=Cheat-7621&background=0A1F14&ring=22C55E&fire=4ADE80&currStreakNum=D1FAE5&sideNums=D1FAE5&currStreakLabel=4ADE80&sideLabels=86EFAC&dates=6EE7B7&border=14532D" alt="Streak stats" />
-</td>
-</tr>
-</table>
 
 </div>
 
