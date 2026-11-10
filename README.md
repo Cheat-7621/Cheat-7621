@@ -15,7 +15,7 @@
 <tr>
 <td width="68%" valign="top">
 
-<h3>About Me 💻</h3>
+<h2>About Me </h2>
 
 <p>Hi, I am <b>Yuong Socheat</b>, a recent <a href="https://www.fe.rupp.edu.kh/program/7">Information technology Engineering (ITE)</a> graduate from the <a href="https://www.rupp.edu.kh"><b>Royal University of Phnom Penh (RUPP)</b></a>. Alongside my academic background, I am a dedicated <b>Mobile Developer</b> and <b>Front-End Web Developer</b>, focused on building high-quality mobile and web applications.</p>
 
@@ -53,7 +53,7 @@
 
 <br/>
 
-<h3 align="center">💼 Experience</h3>
+<h2 align="center">Experience</h2>
 
 <table>
 <tr>
@@ -118,7 +118,7 @@
 
 <br/>
 
-<h3 align="center">🛠️ Skills</h3>
+<h2 align="center">Skills</h2>
 
 <table>
 <tr>
@@ -181,7 +181,7 @@
 
 <br/>
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h2 align="center">Featured Projects</h2>
 
 <table>
 <tr>
@@ -279,7 +279,7 @@
 
 <br/>
 
-<h3 align="center">🎮 Games · Python / Pygame</h3>
+<h2 align="center">🎮 Games · Python / Pygame</h2>
 
 <table>
 <tr>
@@ -311,7 +311,7 @@
 
 <br/>
 
-<h3 align="center">📫 Let's Connect</h3>
+<h2 align="center">Let's Connect</h2>
 
 <div align="center">
 
