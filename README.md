@@ -17,7 +17,7 @@
 
 <h3>About Me 💻</h3>
 
-<p>Hi, I'm <b>Yuong Socheat</b> — an <a href="https://www.fe.rupp.edu.kh/program/7">Information Technology Engineering (ITE)</a> graduate from the <a href="https://www.rupp.edu.kh"><b>Royal University of Phnom Penh (RUPP)</b></a>, based in Cambodia 🇰🇭. Alongside my studies I'm a dedicated <b>Mobile Developer</b> and <b>Front-End Web Developer</b>, building high-quality mobile and web apps with a strong focus on <b>Kotlin Multiplatform</b> and clean, scalable architecture.</p>
+<p>Hi, I am <b>Yuong Socheat</b>, a recent <a href="https://www.fe.rupp.edu.kh/program/7">Information technology Engineering (ITE)</a> graduate from the <a href="https://www.rupp.edu.kh"><b>Royal University of Phnom Penh (RUPP)</b></a>. Alongside my academic background, I am a dedicated <b>Mobile Developer</b> and <b>Front-End Web Developer</b>, focused on building high-quality mobile and web applications.</p>
 
 <ul>
   <li>📱 <b>Mobile:</b> Kotlin, Kotlin Multiplatform, Compose Multiplatform, Swift</li>
@@ -164,7 +164,7 @@
 </td>
 <td width="33%" valign="top">
 
-<b>>🛍️ CHEATZ E-Commerce App</b> <sub>2025</sub><br/>
+<b>🛍️ CHEATZ E-Commerce App</b> <sub>2025</sub><br/>
 <sub>Cross-platform e-commerce app for Android &amp; iOS.</sub><br/><br/>
 <img src="https://img.shields.io/badge/KMP-14532d?style=flat-square&logo=kotlin&logoColor=e0a030" alt="KMP" />
 <img src="https://img.shields.io/badge/Swift-166534?style=flat-square&logo=swift&logoColor=86efac" alt="Swift" />
