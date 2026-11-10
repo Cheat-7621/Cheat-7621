@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:041a0f,100:14532d&height=180&section=header&text=Yuong%20Socheat&fontSize=48&fontColor=e0a030&fontAlignY=38&desc=Mobile%20%C2%B7%20Web%20%C2%B7%20UI%2FUX%20%C2%B7%20Music&descSize=16&descColor=86efac&descAlignY=60" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:041a0f,100:14532d&height=180&section=header&text=Yuong%20Socheat&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%C2%B7%20Web%20%C2%B7%20UI%2FUX%20%C2%B7%20Music&descSize=16&descColor=ffffff&descAlignY=60" width="100%" alt="Header" />
 
 <a href="https://yuongsocheat.site"><img src="https://img.shields.io/badge/WEBSITE-c9852b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://yuongsocheat.site/Services"><img src="https://img.shields.io/badge/ALL%20SKILLS-14532d?style=for-the-badge&logo=target&logoColor=e0a030" alt="All skills" /></a>
