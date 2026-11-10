@@ -53,6 +53,71 @@
 
 <br/>
 
+<h3 align="center">💼 Experience</h3>
+
+<table>
+<tr>
+<td width="16%" valign="top" align="center"><b>2025</b></td>
+<td width="84%" valign="top">
+
+<b>Web Developer — KiloHEALTH</b> · KiloIT Organization, Phnom Penh <sub>Mar 2025 – Jul 2025</sub>
+<ul>
+  <li>Built a health-information website in <b>React.js</b>, with layouts that work equally well on desktop and mobile.</li>
+  <li>Designed the data schema and built the product/content upload flow with an in-browser image-cropping tool and transaction-based saving.</li>
+  <li>Set up <b>Google Analytics 4</b> and compiled the data for the team's regular reporting.</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="16%" valign="top" align="center"><b>2024 – Present</b></td>
+<td width="84%" valign="top">
+
+<b>Developer — Mobile &amp; Front-End</b> · KiloIT Co., Ltd, Phnom Penh <sub>Feb 2024 – Present</sub>
+<ul>
+  <li>Started as an intern and was kept on to build mobile features for <b>iOS (Swift)</b> and <b>Android (Kotlin with Jetpack Compose)</b>.</li>
+  <li>Built front-end interfaces in <b>React.js</b> and handled UI/UX in <b>Figma</b>, owning features from wireframe to working code.</li>
+  <li>Work in a small agile team with regular code reviews, focused on readability and maintainability.</li>
+</ul>
+
+<b>Data-Literacy Training Support</b> · JIRRA Green Biz, KiloIT &amp; IMECS, Mondulkiri Province <sub>Nov 2024</sub>
+<ul>
+  <li>Helped run basic data-literacy training sessions for local and indigenous community members.</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="16%" valign="top" align="center"><b>2023 – 2024</b></td>
+<td width="84%" valign="top">
+
+<b>Freelance Designer &amp; Video Editor</b> · Taoh An, Phnom Penh <sub>Apr 2023 – Nov 2024</sub>
+<ul>
+  <li>Designed logos and social graphics, and edited reels and promo videos for YouTube and Facebook.</li>
+</ul>
+
+<b>Social Media &amp; Sales Support</b> · Alink Dream, Phnom Penh <sub>Apr 2023 – Nov 2024</sub>
+<ul>
+  <li>Managed the Facebook Page and handled book sales, online and in person.</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="16%" valign="top" align="center"><b>2022 – 2023</b></td>
+<td width="84%" valign="top">
+
+<b>Sales Support</b> · Camp Coffee, Kampong Speu <sub>Feb 2022 – Aug 2023</sub>
+<ul>
+  <li>Day-to-day operations and customer-facing sales at a local coffee shop.</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <h3 align="center">🛠️ Skills</h3>
 
 <table>
